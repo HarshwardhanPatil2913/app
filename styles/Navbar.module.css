@@ -1,0 +1,109 @@
+.listitemtext {
+  color: #a3c8ff;
+  position: absolute;
+  font-family: Helvetica Neue;
+  /* margin-top: 20px;
+  margin-left: 5px; */
+  padding-top: 30px;
+  padding-left: 5px;
+}
+.nav {
+  width: 90px;
+}
+.listitemmenubutton {
+  justify-content: center;
+  color: #ffffff;
+  background-color: #000000;
+  height: 53px;
+  width: 90px;
+}
+
+.drawer {
+  width: 90px;
+  overflow-y: scroll;
+  scrollbar-width: 0;
+}
+
+.listitembutton {
+  background-color: #000000;
+  /* align-items: center;
+  display: flex; */
+  height: 53px;
+  width: 90px;
+  align-items: center;
+  justify-content: center;
+}
+.listitembutton1 {
+  background-color: #000000;
+  /* align-items: center;
+  display: flex; */
+  height: 53px;
+  width: fit-content;
+  align-items: center;
+  justify-content: center;
+}
+
+.bottomnav1 {
+  background-color: #000000;
+
+  position: fixed;
+  bottom: 0;
+
+  width: 100%;
+  margin-left: 0px;
+  height: 70px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto;
+  grid-template-rows: 1fr;
+  grid-auto-rows: 0;
+  overflow-y: scroll;
+  justify-content: flex-start;
+  column-gap: 0px;
+}
+
+.gridItem {
+  width: 33.33%;
+}
+
+.listitemicon {
+  height: 35px;
+  padding-top: 8px;
+
+  margin-bottom: 20px;
+  color: #448dfb;
+  position: relative;
+  align-self: center;
+  justify-content: center;
+}
+@media only screen and (max-width: 500px) and (min-width: 400px) {
+  .listitembutton1 {
+    background-color: #000000;
+
+    height: 53px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 800px) and (min-width: 500px) {
+  .listitembutton1 {
+    background-color: #000000;
+
+    height: 53px;
+    width: 107px;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 400px) and (min-width: 370px) {
+  .listitembutton1 {
+    background-color: #000000;
+
+    height: 53px;
+    width: 95px;
+    align-items: center;
+    justify-content: center;
+  }
+}

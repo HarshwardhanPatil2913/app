@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.085" height="12.709" viewBox="0 0 14.085 12.709">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2c83fc;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #3081fb;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <g id="Group_661" data-name="Group 661" transform="translate(-328.378 -166.733)">
+    <g id="increasing-stocks-graphic" transform="translate(322.535 157.899)">
+      <g id="Group_493" data-name="Group 493" transform="translate(0 3.394)">
+        <path id="Path_313" data-name="Path 313" class="cls-1" d="M18.207,7.141V17.919H15.934V7.141Zm-3.974,3.2v7.576H11.959V10.343Zm-4.111,3.327v4.248H7.849V13.671Zm9.343,5.912H6v-1.3H19.465v1.3Z" transform="translate(0 -1.433)"/>
+      </g>
+    </g>
+    <path id="Path_314" data-name="Path 314" class="cls-2" d="M1670.343,178.532h2.616l5.716-3.28,4.547-5.013" transform="translate(-1341.465 -2.799)"/>
+  </g>
+</svg>

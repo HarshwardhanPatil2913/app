@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17.028" viewBox="0 0 17 17.028">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #448dfb;
+      }
+    </style>
+  </defs>
+  <g id="_510932_calendar_date_event_schedule_icon" data-name="510932_calendar_date_event_schedule_icon" transform="translate(-15.081 -15)">
+    <path id="Path_134" data-name="Path 134" class="cls-1" d="M30.719,16.719H28.676V15h-1.7v1.719H20.162V15h-1.7v1.719H16.443a1.362,1.362,0,0,0-1.362,1.362V30.665a1.362,1.362,0,0,0,1.362,1.362H30.719a1.362,1.362,0,0,0,1.362-1.362V18.081A1.362,1.362,0,0,0,30.719,16.719Zm-.341,13.606H16.756V21.811H30.378Zm0-10.217H16.756v-1.7H30.378Z"/>
+    <rect id="Rectangle_683" data-name="Rectangle 683" class="cls-1" width="1.703" height="1.703" transform="translate(22.886 23.514)"/>
+    <rect id="Rectangle_684" data-name="Rectangle 684" class="cls-1" width="1.703" height="1.703" transform="translate(26.292 23.514)"/>
+    <rect id="Rectangle_685" data-name="Rectangle 685" class="cls-1" width="1.703" height="1.703" transform="translate(22.886 26.919)"/>
+    <rect id="Rectangle_686" data-name="Rectangle 686" class="cls-1" width="1.703" height="1.703" transform="translate(19.481 26.919)"/>
+  </g>
+</svg>
